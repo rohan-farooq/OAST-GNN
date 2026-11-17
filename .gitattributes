@@ -1,0 +1,7 @@
+# Preserve exact Python and protocol bytes used by frozen SHA-256 checks.
+*.py -text
+*.json -text
+*.jsonl -text
+*.csv -text
+*.md text eol=lf
+*.yml text eol=lf
